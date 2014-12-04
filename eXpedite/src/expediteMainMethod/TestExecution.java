@@ -8,7 +8,7 @@ public class TestExecution
 	public static void main(String[] args) throws Exception	
 		{
 		eXpedite a = new eXpedite();
-			a.input();
+		a.input();
 
 		}
 	
